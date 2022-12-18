@@ -5,8 +5,10 @@
 Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment model Machine Learning Regresi dengan algoritma SGD. Adapun model yang digunakan merupakan model untuk memprediksi rasio hujan berdasarkan:
 
 -   `Humidity` atau kelembaban 
--   `Longitude` atau 'Sumbu X' nya bumi
--   `Latitude` atau 'Sumbu Y' nya bumi
+-   `Longitude` atau 'Sumbu Y' nya bumi
+-   `Latitude` atau 'Sumbu X' nya bumi
+
+Catatan : Longitude dan Latitude bisa didapatkan melalui google maps
 
 #
 
